@@ -1,0 +1,6 @@
+selenium
+pandas
+pytesseract
+opencv-python
+pdf2image
+selenium
